@@ -13,20 +13,20 @@ ShortTextAdvBench/
 │
 ├── TextFooler/
 │   ├── AGNews/
-│   │   ├── AGNews_All_Variants.csv
-│   │   ├── AGNews_k1.csv
-│   │   ├── AGNews_k2.csv
-│   │   ├── AGNews_k3.csv
-│   │   ├── AGNews_k4.csv
-│   │   └── AGNews_k5.csv
+│   │   ├── agnews_minmul_All_K.csv
+│   │   ├── agnews_minmul_k1.csv
+│   │   ├── agnews_minmul_k2.csv
+│   │   ├── agnews_minmul_k3.csv
+│   │   ├── agnews_minmul_k4.csv
+│   │   └── agnews_minmul_k5.csv
 │   │
 │   ├── Amazon/
-│   │   ├── Amazon_All_Variants.csv
-│   │   ├── Amazon_k1.csv
-│   │   ├── Amazon_k2.csv
-│   │   ├── Amazon_k3.csv
-│   │   ├── Amazon_k4.csv
-│   │   └── Amazon_k5.csv
+│   │   ├── Amazon_minmul_All_K.csv
+│   │   ├── Amazon_minmul_k1.csv
+│   │   ├── Amazon_minmul_k2.csv
+│   │   ├── Amazon_minmul_k3.csv
+│   │   ├── Amazon_minmul_k4.csv
+│   │   └── Amazon_minmul_k5.csv
 │   │
 │   ├── DBpedia/
 │   └── YahooAnswers/
