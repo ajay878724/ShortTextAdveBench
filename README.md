@@ -119,12 +119,6 @@ If you use this benchmark in your research, please cite our paper.
 
 ---
 
-## License
-
-License information will be added in a future update.
-
----
-
 ## Updates
 
 This repository will be continuously updated with:
